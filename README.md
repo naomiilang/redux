@@ -4,7 +4,7 @@ This was a refactoring assignment to take a working e-commerce platform and refa
 
 ![screenshot](readme.png)
 
-You can view the deployed app here: 
+You can view the deployed app here: https://gentle-harbor-79076.herokuapp.com/ 
 
 # About the Developer
 
